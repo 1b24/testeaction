@@ -1,5 +1,3 @@
-Projeto: trabalhoExercicio5
-
 name: Deploy no GitHub Pages
 on:
  push:
