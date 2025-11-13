@@ -21,7 +21,7 @@ jobs:
       - name: Upload dos arquivos para o Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: C:\Users\UniALFA\Downloads\Exercicio5HeitorCorrea4A>
+          path: C:\Users\UniALFA\Downloads\trab-deploy-main
 
   deploy:
     needs: build
