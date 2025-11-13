@@ -21,7 +21,7 @@ jobs:
       - name: Upload dos arquivos para o Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./index.html
+          path: ./
 
   deploy:
     needs: build
